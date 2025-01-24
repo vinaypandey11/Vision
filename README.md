@@ -1,4 +1,4 @@
-## VISION: Your AI Assistant
+## VISION: AI Exam Assistant for visually impaired Students
 ## About VISION
 VISION was created as a solution to a problem I encountered when I noticed visually impaired students struggling to give online exams during the COVID-19 pandemic. The lack of accessible tools to assist them with exams inspired me to develop this software, aiming to make online exams more inclusive for everyone. VISION combines Speech-to-Text (STT) and Text-to-Speech (TTS) technologies to create an interactive and user-friendly experience for students, especially for those with visual impairments.
 
